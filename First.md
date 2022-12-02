@@ -56,4 +56,4 @@
 
 ![Dancing bear](Bear.jpg "Смотри как могу")
 
-![Dog](https://photos.google.com/share/AF1QipN37yMJt2RZTyUId8ENlFY03kSPIrkr5w2y1puvvwydR6cSH8nfMoIB2f5r6Nte6Q/photo/AF1QipPW-k93vnvlMbD5Caj-1SPxLkrITF83tRaFwWiH?key=N0UwRGxYN3JpWVJfakZyQXhaMU15Q1N6ZHRhMzZ3)
+![Dog](https://live.staticflickr.com/1640/26676909015_8bfcc8509c_c.jpg "Милашка")
